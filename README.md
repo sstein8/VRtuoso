@@ -1,5 +1,5 @@
 # VRtuoso
-Virtual Reality experience for Oculus Quest.  Interactive drum kit and piano.  Built in Unity.
+VRtuoso is a virtual reality application developed for the Oculus Quest 2 headset.  Take a walk around this virtual music studio and play a realistic drum set and piano to hear real instrument sounds.  This app was developed in Unity and scripts were written in C#.
 
 Photos
 
